@@ -1,3 +1,4 @@
+![coding girl](https://i.imgur.com/rHlEdDq.gif)
 <h1 align="center">Hi 👋, I'm Fatema Summe Nur</h1>
 <h3 align="center">As passionate MERN Stack Developer, I've learned web development technologies such as HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, Next.js, and React.js. I have also gained experience with back-end technologies like Node.js, MongoDB, Express.js, and Firebase.</h3>
 
